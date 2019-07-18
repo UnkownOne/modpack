@@ -1,0 +1,14 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-07-18 23:13:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2019-07-18 23:13:35 +0200"
+    },
+    "done": false
+  }
+}

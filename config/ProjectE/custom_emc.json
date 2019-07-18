@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 512
+    },
+    {
+      "item": "forestry:beehives|0",
+      "emc": 50
+    },
+    {
+      "item": "forestry:beehives|1",
+      "emc": 50
+    },
+    {
+      "item": "forestry:beehives|2",
+      "emc": 50
+    },
+    {
+      "item": "forestry:beehives|3",
+      "emc": 50
+    },
+    {
+      "item": "morebees:hive|0",
+      "emc": 50
+    },
+    {
+      "item": "forestry:beehives|6",
+      "emc": 50
+    },
+    {
+      "item": "magicbees:hiveblock|0",
+      "emc": 50
+    },
+    {
+      "item": "magicbees:hiveblock|2",
+      "emc": 50
+    },
+    {
+      "item": "magicbees:hiveblock|3",
+      "emc": 1024
+    },
+    {
+      "item": "magicbees:hiveblock|4",
+      "emc": 1024
+    },
+    {
+      "item": "magicbees:hiveblock|5",
+      "emc": 1024
+    },
+    {
+      "item": "forestry:beehives|4",
+      "emc": 1024
+    }
+  ]
+}
